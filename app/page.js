@@ -38,10 +38,10 @@ export default function LandingPage() {
         </div>
         <div className="relative z-20 bg-transparent bg-opacity-80 rounded-xl shadow-lg mx-auto max-w-4xl mt-12 px-8 py-6">
         <h2 className="md:text-3xl text-xl flex items-center justify-center mx-auto font-bold text-yellow-800">How does this work ?</h2>
-        <p className="mt-4 text-lg text-gray-700">
+        <p className="mt-4 text-lg text-gray-700 text-center">
           EtherJoy is an innovative platform that combines AI and blockchain to spread happiness. Take a photo of your smile with our built-in camera feature, and our app evaluates your smile to reward you with cryptocurrency!
         </p>
-        <ul className="mt-4 space-y-3 text-gray-600">
+        <ul className="mt-4 space-y-3 text-gray-600 text-center">
           <li>🎥 Capture your smile effortlessly using the camera.</li>
           <li>☁️ Cloudinary generates secure image URLs seamlessly.</li>
           <li>💰 Receive rewards directly via MetaMask integration.</li>
