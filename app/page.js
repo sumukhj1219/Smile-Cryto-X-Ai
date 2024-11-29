@@ -24,7 +24,7 @@ export default function LandingPage() {
             href={'/dashboard'}
             className="px-8 py-4 text-lg font-medium text-white bg-gradient-to-r from-yellow-400 to-yellow-600 rounded-full shadow-2xl hover:scale-105 transform transition-all duration-300"
           >
-            Let's Have Fun!
+            Lets Have Fun!
           </Link>
         </div>
         <div className="md:max-w-7xl items-center justify-center flex mx-auto m-4">
